@@ -1,0 +1,7 @@
+name: hMinaCash
+version: 1.0.0
+author: Havoc#5222
+main: hMinaCash.Main
+commands:
+  minacash:
+  minacashadmin:

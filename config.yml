@@ -1,0 +1,11 @@
+ComandoCash: "cash add @player @quantia"
+
+Picareta:
+  MaximoEficiencia: 50
+  MaximoFortuna: 30
+  PrecoInicialFortuna: 1242
+  PrecoInicialEfficiencia: 125
+  CashQuedaAoMinerar: 500
+
+ComandosPermitidos:
+  - 'minacash'
